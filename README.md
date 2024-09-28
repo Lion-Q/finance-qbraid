@@ -21,13 +21,13 @@ timization problems. Notable contributions from orga
 nizations such as IBM and D-Wave have demonstrated
 the potential of quantum algorithms to outperform clas
 sical approaches. Quantum algorithms, such as the Vari
-ational Quantum Eigensolver (VQE), offer unique advan-
+ational Quantum Eigensolver (VQE), offer unique advan
 tages in optimizing asset allocation and risk management
 by leveraging quantum superposition and entanglement.
 These techniques can explore multiple solutions si
 multaneously, significantly reducing the time required to
 identify optimal strategies in dynamic market conditions.
-As the financial industry continues to embrace these in-
+As the financial industry continues to embrace these in
 novations, we can expect a paradigm shift in how invest
 ment strategies are developed and executed, ultimately
 leading to more robust and resilient portfolios. Thus, it
